@@ -1,3 +1,8 @@
+# Arquivos gerados pelo player
+downloads/
+*.mp3
+dados/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
