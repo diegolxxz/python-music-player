@@ -1,7 +1,6 @@
 # Arquivos gerados pelo player
-downloads/
+musicas/
 *.mp3
-dados/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
