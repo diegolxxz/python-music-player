@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 class Playlist:
     def __init__(self, nome):
         self._nome = nome
@@ -50,3 +51,6 @@ class Biblioteca:
         busca = busca.lower()
         return [m for m in self._musicas
                 if busca in m.titulo.lower() or busca in m.artista.lower()]
+=======
+
+>>>>>>> 928e026ac0feff060bb893aa3e7d5117c2ca2163
